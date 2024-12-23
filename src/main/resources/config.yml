@@ -1,0 +1,20 @@
+########################################
+# +----------------------------------+ #
+# | Endoria Hunger Games by KelloTek | #
+# +----------------------------------+ #
+########################################
+
+# Max number of players
+#   Solo: 12
+#   Duo: 24
+maxPlayers: 12
+
+# Min number of players
+#   Solo: 6
+#   Duo: 12
+minPlayers: 6
+
+# Team size
+#   Solo: 1
+#   Duo: 2
+teamSize: 1

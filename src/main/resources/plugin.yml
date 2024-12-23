@@ -1,0 +1,13 @@
+name: EndoriaHungerGames
+version: '${project.version}'
+main: fr.kellotek.endoriaHungerGames.EndoriaHungerGames
+api-version: '1.21'
+authors: [ KelloTek ]
+commands:
+  hungergames:
+    permission: endoriahungergames.admin
+    aliases:
+      - hg
+permissions:
+  endoriahungergames.admin:
+    default: op
